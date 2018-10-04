@@ -1,3 +1,11 @@
-# hello!
+# hello
+Welcome to kind.<br>
+The site's in development, but here's a sneak preview:
 
-Well look here! Someone came! The site's in development though, so don't plan on it being up as often. Well, see you soon!
+---
+# kind
+Treat others the way you want to be treated. Karma is real.
+
+Help spread kindness world-wide.<br>
+Share your support.<br>
+Tell your friends: https://bit.ly/kind
