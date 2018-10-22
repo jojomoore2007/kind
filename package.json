@@ -1,16 +1,26 @@
 {
-  "name": "kind",
-  "productName": "kind",
-  "description": "A webapp for sharing kindness worldwide",
-  "keywords": ["kind", "kindness", "caring", "spread kindness", "kindness worldwide", "happiness", "helping", "share"],
+  "name": "tightfisted-canvas-possess",
+  "productName": "tightfisted-canvas-possess",
+  "description": "My Electron application description",
+  "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
   "author": "jojomoore",
   "scripts": {
-    "start": "electron ."
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "3.0.2"
-  }
+    "electron": "3.0.2",
+    "@electron-forge/cli": "6.0.0-beta.22",
+    "@electron-forge/maker-deb": "6.0.0-beta.22",
+    "@electron-forge/maker-rpm": "6.0.0-beta.22",
+    "@electron-forge/maker-squirrel": "6.0.0-beta.22",
+    "@electron-forge/maker-zip": "6.0.0-beta.22"
+  },
+  "config": {}
 }
