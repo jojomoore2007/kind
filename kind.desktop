@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Kind
+Comment=A webapp for sharing kindness worldwide.
+Exec=./kind
+Icon=./icon.png
+Terminal=false
