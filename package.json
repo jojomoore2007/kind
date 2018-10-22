@@ -1,0 +1,16 @@
+{
+  "name": "kind",
+  "productName": "kind",
+  "description": "A webapp for sharing kindness worldwide",
+  "keywords": ["kind", "kindness", "caring", "spread kindness", "kindness worldwide", "happiness", "helping", "share"],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "jojomoore",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "3.0.2"
+  }
+}
